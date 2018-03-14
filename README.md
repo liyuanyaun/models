@@ -9,3 +9,6 @@ The [research models](research) are a large collection of models implemented in 
 The [samples folder](samples) contains code snippets and smaller models that demonstrate features of TensorFlow, including code presented in various blog posts.
 
 The [tutorials folder](tutorials) is a collection of models described in the [TensorFlow tutorials](https://www.tensorflow.org/tutorials/).
+
+
+https://research.googleblog.com/2018/03/semantic-image-segmentation-with.html
